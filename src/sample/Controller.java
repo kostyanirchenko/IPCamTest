@@ -25,7 +25,7 @@ public class Controller {
 //            HttpURLConnection connection = (HttpURLConnection) u.openConnection();
             WebEngine engine = webView.getEngine();
 //            engine.load("rtsp://" + loginField.getText() + ":" + passwordField.getText() + "@" + ipField.getText() + ":554" /*connection*/);
-            engine.load("http://vk.com/nirchenko_kostya");
+            engine.load("http://192.168.1.8");
         } /*catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {

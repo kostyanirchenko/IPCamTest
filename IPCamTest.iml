@@ -7,6 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="opencv-310" level="project" />
+    <orderEntry type="library" name="uk.co.caprica:vlcj:2.4.0" level="project" />
   </component>
 </module>
-
